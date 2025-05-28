@@ -1,5 +1,5 @@
-# SummerStudent2024
-Summer student examples and resources 2024
+# SummerStudent2025
+Summer student examples and resources 2025
 
 * [Presentation Slides](https://github.com/brkent/SummerStudent2024/blob/main/Students-BKent-Python-MachLearn-Astronomy-June-2024.pdf) - Click Download in the upper right
 * [Python tutorial (Supernova)](https://ivastar.github.io/python-novice-astro/)
@@ -13,10 +13,10 @@ Summer student examples and resources 2024
 * [Blender tutorials](https://www.cv.nrao.edu/~bkent/blender/)
 * [Python resources](https://safe.nrao.edu/wiki/bin/view/Main/PythonResources)
 * [AstroPython](http://www.astropython.org/resources)
-* [Pycon](https://us.pycon.org/2024/)
+* [Pycon](https://us.pycon.org/2025/)
 * [Pandas](http://pandas.pydata.org/)
 * [Siggraph Conference](https://www.siggraph.org/)
-* [SciPy Conference](https://www.scipy2023.scipy.org/)
+* [SciPy Conference](https://www.scipy2025.scipy.org/)
 * [Visualize Astronomy Channel](https://www.youtube.com/user/VisualizeAstronomy/videos)
 * [Seaborn](https://seaborn.pydata.org/)
 * [Colorimetry in plots](https://seaborn.pydata.org/tutorial/color_palettes.html#general-principles-for-using-color-in-plots)
